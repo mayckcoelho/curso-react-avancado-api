@@ -1,4 +1,3 @@
-# Strapi application
-
-A quick description of your strapi application
 # curso-react-avancado-api
+
+Este repositório contém uma aplicação feita com Strapi com as APIs.
